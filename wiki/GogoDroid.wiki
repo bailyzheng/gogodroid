@@ -1,0 +1,12 @@
+#summary 关于GogoDroid
+
+GogoDroid 是Android 上 gogoc 的客户端，旨在让 gogoc 的使用变得方便。
+
+http://gogodroid.googlecode.com/files/20110702-215509.png
+http://gogodroid.googlecode.com/files/20110702-215450.png
+
+同 gogoc-android 不同，这个客户端有了更多灵活性和自定义的功能。GogoDroid 多了设置配置文件的功能，如果你懂得配置文件的写法，可以更好的使用这个应用程序。
+
+你还可以按“设置DNS”按钮将DNS设置为可以解析出IPv6地址的一个，从而更好的连接进IPv6网络。
+
+这个应用程序需要你的手机已经root过，不过只需询问一次是否获取root权限，相比 gogoc-android 需要询问数次少了很多。
