@@ -10,3 +10,15 @@ http://gogodroid.googlecode.com/files/20110702-215450.png
 你还可以按“设置DNS”按钮将DNS设置为可以解析出IPv6地址的一个，从而更好的连接进IPv6网络。
 
 这个应用程序需要你的手机已经root过，不过只需询问一次是否获取root权限，相比 gogoc-android 需要询问数次少了很多。
+
+感谢：
+
+[https://github.com/liudongmiao/gogoc-android gogoc-android]（程序的命令行部分）
+
+[http://code.google.com/p/rsyncdroid/ rsyncdroid]（程序的图形界面部分）
+
+[https://github.com/mestre/droidsshd/ DroidSSHd]（一些参考）
+
+[https://raw.github.com/oNaiPs/droid-VNC-server/ Droid VNC Server]（安装二进制文件部分）
+
+[http://twitter.com/oliver661 @oliver661] [http://twitter.com/wjchen1987 @wjchen1987] （提供了参考和一些建议）
