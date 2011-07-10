@@ -1,4 +1,4 @@
-#summary 关于GogoDroid
+#summary About GogoDroid
 
 GogoDroid is the graphical frontend of gogoc for Android. I made this to provide a more user-friendly interface to control gogoc.
 
@@ -11,12 +11,12 @@ This application requires a *ROOTED* device.
 
 Credits:
 
-[https://github.com/liudongmiao/gogoc-android gogoc-android]Core application.
+[https://github.com/liudongmiao/gogoc-android gogoc-android] (Core application)
 
-[http://code.google.com/p/rsyncdroid/ rsyncdroid]GUI modded from this project,
+[http://code.google.com/p/rsyncdroid/ rsyncdroid] (GUI modded from this project)
 
-[https://github.com/mestre/droidsshd/ DroidSSHd]Some references.
+[https://github.com/mestre/droidsshd/ DroidSSHd] (Some references)
 
-[https://raw.github.com/oNaiPs/droid-VNC-server/ Droid VNC Server]Install binary file.
+[https://raw.github.com/oNaiPs/droid-VNC-server/ Droid VNC Server] (Install binary file)
 
-[http://twitter.com/oliver661 @oliver661] [http://twitter.com/wjchen1987 @wjchen1987]Some advice.
+[http://twitter.com/oliver661 @oliver661] [http://twitter.com/wjchen1987 @wjchen1987] (Some advice)
