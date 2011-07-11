@@ -2,7 +2,7 @@
 
 GogoDroid is the graphical frontend of gogoc for Android. I made this to provide a more user-friendly interface to control gogoc.
 
-http://gogodroid.googlecode.com/files/20110702-215509.png
+http://gogodroid.googlecode.com/files/20110711-145659.png
 http://gogodroid.googlecode.com/files/20110702-215450.png
 
 GogoDroid have many powerful features such as edit config file and set DNS manually. 
